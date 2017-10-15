@@ -49,6 +49,36 @@
         <che.lib.version>5.20.0-SNAPSHOT</che.lib.version>
         <che.version>5.20.0-SNAPSHOT</che.version>
         <specification.version>1.0-beta2</specification.version>
+        <?SORTPOM IGNORE?>
+        <com.google.errorprone>2.1.1</com.google.errorprone>
+        <version.archetype.plugin>3.0.1</version.archetype.plugin>
+        <version.assembly.plugin>3.1.0</version.assembly.plugin>
+        <version.changes.plugin>2.12.1</version.changes.plugin>
+        <version.checkstyle.plugin>2.17</version.checkstyle.plugin>
+        <version.clean.plugin>3.0.0</version.clean.plugin>
+        <version.compiler.plugin>3.7.0</version.compiler.plugin>
+        <version.dependency.plugin>3.0.1</version.dependency.plugin>
+        <version.docbkx.plugin>2.0.17</version.docbkx.plugin>
+        <version.ear.plugin>2.10.1</version.ear.plugin>
+        <version.ejb.plugin>3.0.0</version.ejb.plugin>
+        <version.enforcer.plugin>3.0.0-M1</version.enforcer.plugin>
+        <version.exec.plugin>1.6.0</version.exec.plugin>
+        <version.fabric8io.docker.plugin>0.22.1</version.fabric8io.docker.plugin>
+        <version.jacoco.plugin>0.7.9</version.jacoco.plugin>
+        <version.jar.plugin>3.0.2</version.jar.plugin>
+        <version.license.plugin>1.14</version.license.plugin>
+        <version.mycila-license.plugin>3.0</version.mycila-license.plugin>
+        <version.plugin.plugin>3.5</version.plugin.plugin>
+        <version.pmd.plugin>3.8</version.pmd.plugin>
+        <version.project-info-reports.plugin>2.9</version.project-info-reports.plugin>
+        <version.release.plugin>2.5.3</version.release.plugin>
+        <version.resources.plugin>3.0.2</version.resources.plugin>
+        <version.site.plugin>3.6</version.site.plugin>
+        <version.source.plugin>3.0.1</version.source.plugin>
+        <version.surefire.plugin>2.20.1</version.surefire.plugin>
+        <version.versions.plugin>2.4</version.versions.plugin>
+        <version.war.plugin>3.1.0</version.war.plugin>
+        <?SORTPOM RESUME?>
     </properties>
     <dependencyManagement>
         <dependencies>
